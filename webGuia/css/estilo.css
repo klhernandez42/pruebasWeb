@@ -77,12 +77,59 @@ section#contenido_gris{
   text-align: center;
 }
 
+#contenido_gris p{
+  color: #FFF;
+  text-shadow: 1px 1px #000;
+}
+
+#contenido_gris h4{
+  text-shadow: 1px 1px #000;
+}
+
+.caja{
+  width: 270px;
+  padding: 5px;
+  text-align: center;
+  margin: 20px 0 10px 10px;
+  float: left;
+  text-align: justify;
+}
+
+.mas a{
+  color: #000;
+  text-shadow: none;
+}
+
+.caja.mas{
+  margin-left: 20px;
+  padding: 5px 2px 7px 10px;
+  background: #098EFF;
+  background: -moz-linear-gradient(#43A9FF, #0183F0);
+  background: -o-linear-gradient(#43A9FF, #0183F0);
+  background: -webkit-linear-gradient(#43A9FF, #0183F0);
+}
+
+.caja.mas a{
+  color: #FFF;
+  text-shadow: 1px 1px #004C8C;
+}
+
 footer{
   background: -moz-linear-gradient(#FFF, #BBB);
   background: -o-linear-gradient(#FFF, #BBB);
   background: -webkit-linear-gradient(#FFF, #BBB);
   height: 60px;
   margin-top:30px;
+}
+
+#footer{
+  color: #1D1D1D;
+  width: 940px;
+  height: 20px;
+  font-weight: bold;
+  padding-top: 20px;
+  text-align: center;
+  text-shadow: 1px 1px #FFF;
 }
 
 a, a:hover{
@@ -158,4 +205,22 @@ ul#menu li:hove a{
   letter-spacing: -3px;
   text-shadow: 1px 1px yellow;
   color:#FFF
+}
+
+.Facultad{
+  background-color: #098EFF;
+  color: #FFF;
+  float: left;
+  margin-right: 26px;
+  padding: 20px;
+  text-align: justify;
+  width: 240px;
+}
+
+#content{
+  margin: 20px;
+  margin-top: 220px;
+  padding: 20px;
+  text-align: justify;
+  width: 800px;
 }

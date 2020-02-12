@@ -71,6 +71,8 @@ ul{
 	margin: 0 auto;
 	padding-left: 20px;
 	padding-top: 30px;
+	width: 100%;
+	text-align: center;
  }
 
 #barra_menu{
@@ -246,10 +248,14 @@ footer{
  	background: -moz-linear-gradient(#fff, #BBB);
  	background: -o-linear-gradient(#fff, #BBB);
  	background: -webkit-linear-gradient(#fff, #BBB);
+  width: 100%;
   height: 50px;
 	margin-top: 15px;
  }
 
  footer p{
+	 font-weight: bold;
+	 padding-top: 20px;
 	 text-align: center;
+	 text-shadow: 1px 1px #FFF;
  }
