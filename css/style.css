@@ -47,8 +47,7 @@ section#menu_section{
 	background-color: inherit;
 }
 
- #universidad h1
- {
+#universidad h1 {
  	font-normal: bold 3em Arial, Helvetica, san-serif;
  	letter-spacing: 1px;
  	text-shadow: 0.5px 0.5px yellow;
@@ -90,8 +89,8 @@ ul{
 ul#menu li.current a{
 	color: #098EFF;
 	text-shadow: none;
-
 }
+
  ul#menu li:hover a{
  	color:  #098EFF;
  	text-shadow: none;
