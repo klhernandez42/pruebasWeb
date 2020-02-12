@@ -55,10 +55,22 @@ section#menu_section{
 	padding-top: 20px;
  }
 
+ #universidad{
+   width: 300px;
+   float: left;
+   height: 50px;
+   margin: 0 auto;
+   padding-left: 20px;
+   padding-top: 10px;
+ }
+
 ul{
  	font-style: normal;
  	font-style: 1em;
  	line-height:  1.7em;
+	margin: 0 auto;
+	padding-left: 20px;
+	padding-top: 30px;
  }
 
 #barra_menu{
