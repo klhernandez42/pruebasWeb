@@ -120,12 +120,13 @@ a:hover{
 
 #content {
  margin: 20px;
- width: 885px;
+ width: 800px;
+ padding-left: 40px;
  text-align: justify;
 }
 
 #content h1{
-	color:#098EFF; 
+	color:#098EFF;
 }
 
 /* ME */
